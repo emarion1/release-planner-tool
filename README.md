@@ -21,7 +21,7 @@ Read in this order (~60–90 minutes):
 2. **[docs/ARCHITECTURE-CURRENT-STATE.md](./docs/ARCHITECTURE-CURRENT-STATE.md)** — what exists today (and what’s broken)  
 3. **[docs/DRAFT-RELEASE-PLANS-IMPLEMENTATION-PLAN.md](./docs/DRAFT-RELEASE-PLANS-IMPLEMENTATION-PLAN.md)** — locked decisions + phased plan  
 4. **[docs/DRAFT-PLANS-DATA-CONTRACT.md](./docs/DRAFT-PLANS-DATA-CONTRACT.md)** — planned draft / edits / Approve shapes  
-5. **[docs/DATA-INVENTORY.md](./docs/DATA-INVENTORY.md)** — producers, consumers, storage keys  
+5. **[docs/DATA-INVENTORY.md](./docs/DATA-INVENTORY.md)** — as-is vs planned producers, consumers, storage keys  
 6. **Diagrams** below  
 
 Then open the Org Pulse `modules/releases/` code and the Jira epic [AIPCC-19994](https://redhat.atlassian.net/browse/AIPCC-19994).
